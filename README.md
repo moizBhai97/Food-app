@@ -1,1 +1,12 @@
 # Food-app
+- Download zip file of repository for code
+- Extract zip file
+- Create new empty project in vs
+- Select windows forms app from c# project and name project WinFormsApp1
+- You will see form1 design once project is created
+- Go to its properties and select background image and select project resource file and select import
+- In the resource file provided in this repository there are two images, select them for import in the above step and select ok
+- Now delete form1 and program.cs
+- Add existing items to project
+- Select all files given in food folder of this repository
+- You can view the form designs properly and run project aswell
